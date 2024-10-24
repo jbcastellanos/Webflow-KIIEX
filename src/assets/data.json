@@ -1,0 +1,6 @@
+{
+    "paises": ["Colombia", "Venezuela", "México"],
+    "ciudades": ["Bogotá", "Caracas", "Ciudad de México"],
+    "tipo_empresa": ["Pública", "Privada", "Mixta"]
+  }
+  
